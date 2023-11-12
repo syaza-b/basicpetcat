@@ -1,10 +1,9 @@
 # appdemo
 
-A new Flutter project.
+You can read the code at file lib/main.dart
+Other important file is at pubsec.yaml and test/widget_test.dart
 
 ## Getting Started
-
-This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
